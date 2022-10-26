@@ -69,13 +69,13 @@
 </div>
 <br>
 
-
 <div align = "center">
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aishwarya1999-roy&amp;theme=dracula " alt="throphies" /></a> </p>
-</div>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aishwarya1999-roy&amp;theme=dracula" alt="throphies" /></a> </p>
+ </div>
+  
 <br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=aishwarya1999-roy&label=Profile%20views&color=0e75b6&amp;theme=dracula" alt="vies" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aishwarya1999-roy&label=Profile%20views&color=0e75b6" alt="views" /> </p>
 
 
 </div>
