@@ -29,7 +29,7 @@
 
 <h3 align="left">Skills :</h3>
 
-<table>
+<table align ="center">
   <tr>
   <td> Frontend</td>
   <td>Programming Lanugages</td>
