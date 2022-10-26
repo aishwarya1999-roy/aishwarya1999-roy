@@ -1,7 +1,7 @@
-### Hi there 👋
+### <centre> Hi there 👋 This is Aishwarya a working student </centre>
 
 <!--
-**aishwarya1999-roy/aishwarya1999-roy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aishwarya1999-roy/aishwarya1999-roy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
