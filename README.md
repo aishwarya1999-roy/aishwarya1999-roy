@@ -1,4 +1,4 @@
-### <p style="text-align:center">Hi there 👋 This is Aishwarya a working student </p>
+### <div style="text-align:center"> Hi there 👋 This is Aishwarya a working student </div>
 <hr>
 <!--
 **aishwarya1999-roy/aishwarya1999-roy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
