@@ -1,30 +1,18 @@
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<script src="https://code.iconify.design/iconify-icon/1.0.1/iconify-icon.min.js"></script>
-<h1 align="center">Hey There 👋, This is Aishwarya , a working student</h1>
+<h1 align="center">Hey There 👋, This is Aishwarya a working woman as well as a student </h1>
 
-<h3> About Me :information_desk_person: : </h3>
+<h3> About Me 💁‍♀️ :  </h3>
 
 - 🔭 I’m currently working on **Infosys**
 
 - 🌱 I’m currently learning **DSA and GCP**
+
+- 🌐 Interested in **Python** releated Technologies. 
 
 - 👯 I’m looking to collaborate on **Website Developement**
 
 - ⚡ Fun fact **Darkness is the most true thing in the universe. :milky_way:**
 
 - 📺 Hobbies : Singing, Cooking.
-
-<!-- Contact -->
-
-<h3 align="left">Connect with me :</h3>
-<p align="center">
-<a href="https://twitter.com/iaishwaryaroy" target="blank"><i class="fa fa-twitter" style="font-size:48px;color:black"></i></a>
-<a href="https://instagram.com/black.queen992100/" target="blank"><i class="fa fa-instagram" style="font-size:48px;color:black"></i></a>
-<a href="https://linkedin.com/in/aishwarya-roy-a8144a1b8" target="blank"><i class="fa fa-linkedin-square" style="font-size:48px;color:black"></i></a>
-<a href="https://dribbble.com/blackdeformer21" target="blank"><i class="fa fa-dribbble" style="font-size:48px;color:black"></i></a>
-<a href="https://www.leetcode.com/aishwarya1999-roy" target="blank"><iconify-icon icon="simple-icons:leetcode" style="font-size:48px;color:black"></iconify-icon></a>
-</p>
 
 
 <h3 align="left">Skills :</h3>
@@ -54,8 +42,6 @@
   
 </table>
 
-
-
 <!-- Github stats: -->
 
 <h3 align="left">Github stats :</h3>
@@ -65,17 +51,25 @@
 <br>
 
 <div align = "center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aishwarya1999-roy&show_icons=true&locale=en&layout=compact&amp;theme=dracula" alt="Most Used Lanugages" style="max-width: 100%;/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aishwarya1999-roy&show_icons=true&locale=en&layout=compact&amp;theme=dracula" alt="Most Used Lanugages" style="max-width: 100%;"/></p>
 </div>
 <br>
 
 <div align = "center">
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aishwarya1999-roy&amp;theme=dracula" alt="throphies" /></a> </p>
  </div>
+
+  <!-- Contact -->
+<h3 align="left">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/iaishwaryaroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iaishwaryaroy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aishwarya-roy-a8144a1b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aishwarya-roy-a8144a1b8" height="30" width="40" /></a>
+<a href="https://instagram.com/black.queen992100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="black.queen992100" height="30" width="40" /></a>
+<a href="https://dribbble.com/blackdeformer21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="blackdeformer21" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aishwarya1999-roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aishwarya1999-roy" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/aishwarya_roy0099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aishwarya_roy0099" height="30" width="40" /></a>
+</p>
   
-<br>
-
+ <br><br>
+ 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aishwarya1999-roy&label=Profile%20views&color=0e75b6" alt="views" /> </p>
-
-
-</div>
