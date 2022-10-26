@@ -34,10 +34,9 @@
 <br>
 
 <div align = "center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aishwarya1999-roy&show_icons=true&locale=en&layout=compact" alt="aishwarya1999-roy" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aishwarya1999-roy&show_icons=true&locale=en&layout=compact" alt="aishwarya1999-roy" /></p>
 </div>
 <br>
-
 <div align = "center">
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aishwarya1999-roy" alt="aishwarya1999-roy" /></a> </p>
 </div>
