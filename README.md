@@ -1,5 +1,5 @@
-### <text-align : centre> Hi there 👋 This is Aishwarya a working student
-
+### <p style="text-align:center">Hi there 👋 This is Aishwarya a working student </p>
+<hr>
 <!--
 **aishwarya1999-roy/aishwarya1999-roy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
