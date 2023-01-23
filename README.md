@@ -64,12 +64,12 @@
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/iaishwaryaroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iaishwaryaroy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aishwarya-roy-a8144a1b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aishwarya-roy-a8144a1b8" height="30" width="40" /></a>
-<a href="https://instagram.com/black.queen992100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="black.queen992100" height="30" width="40" /></a>
-<a href="https://dribbble.com/blackdeformer21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="blackdeformer21" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aishwarya1999-roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aishwarya1999-roy" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/aishwarya_roy0099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aishwarya_roy0099" height="30" width="40" /></a>
+<a href="https://twitter.com/iaishwaryaroy" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="iaishwaryaroy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aishwarya-roy-a8144a1b8" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="aishwarya-roy-a8144a1b8" height="30" width="40" /></a>
+<a href="https://instagram.com/black.queen992100" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="black.queen992100" height="30" width="40" /></a>
+<a href="https://dribbble.com/blackdeformer21" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/dribbble/dribbble-icon.svg" alt="blackdeformer21" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aishwarya1999-roy" target="blank"><img align="center" src="" alt="aishwarya1999-roy" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/aishwarya_roy0099" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/File:GeeksforGeeks.svg#/media/File:GeeksforGeeks.svg" alt="aishwarya_roy0099" height="30" width="40" /></a>
 </p>
   
  <br><br>
