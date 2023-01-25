@@ -12,8 +12,6 @@
 
 - ⚡ Fun fact **Darkness is the most true thing in the universe. :milky_way:**
 
-- 📺 Hobbies : Singing, Cooking.
-
 
 <h3 align="left">Skills :</h3>
 
