@@ -21,26 +21,27 @@
   </tr>
   <tr>
     <td>
-      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="40" />
-      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="CSS" width="40" />
-      <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="40" />
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" />
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" />
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="40" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="CSS" width="40" /></a>
+      <a href="https://getbootstrap.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="40" /></a>
+      <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" /></a>
+      <a href="https://reactjs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" /></a>
     </td>
     <td>
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" />
-      <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="40" />
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" />
-      <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" />
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" />
+      <a href="https://nodejs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" /></a>
+      <a href="https://expressjs.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="40" /></a>
+      <a href="https://www.python.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" /></a>
+      <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" /></a>
+      <a href="https://www.mongodb.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" /></a>
+      <a href="https://www.mysql.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" /></a>
     </td>
     <td>
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" />
-      <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" />
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
-      <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" width="40" />
-      <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="Apache" width="40" />
-      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="CI/CD" width="40" />
+      <a href="https://www.docker.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" /></a>
+      <a href="https://github.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" /></a>
+      <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" /></a>
+      <a href="https://ubuntu.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" width="40" /></a>
+      <a href="https://httpd.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="Apache" width="40" /></a>
+      <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" /></a>
     </td>
   </tr>
 </table>
@@ -58,7 +59,7 @@
 
 <h3 align="left">🌐 Let's Connect</h3>
 <p align="center">
-  <a href="https://x.com/iaishwaryaroy" target="_blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="Twitter" width="30" /></a>
+  <a href="https://x.com/iaishwaryaroy" target="_blank"><img src="https://www.vectorlogo.zone/logos/x-twitter/x-twitter-icon.svg" alt="Twitter" width="30" /></a>
   <a href="https://linkedin.com/in/aishwarya-roy-a8144a1b8" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="30" /></a>
   <a href="https://instagram.com/black.queen992100" target="_blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="30" /></a>
   <a href="https://www.reddit.com/user/Vam_Pii/" target="_blank"><img src="https://www.vectorlogo.zone/logos/reddit/reddit-icon.svg" alt="Reddit" width="30" /></a>
