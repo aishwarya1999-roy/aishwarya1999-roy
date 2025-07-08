@@ -59,7 +59,7 @@
 
 <h3 align="left">🌐 Let's Connect</h3>
 <p align="center">
-  <a href="https://x.com/iaishwaryaroy" target="_blank"><img src="https://www.vectorlogo.zone/logos/x-twitter/x-twitter-icon.svg" alt="Twitter" width="30" /></a>
+  <a href="https://x.com/iaishwaryaroy" target="_blank"><img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="Twitter" width="30" /></a>
   <a href="https://linkedin.com/in/aishwarya-roy-a8144a1b8" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="30" /></a>
   <a href="https://instagram.com/black.queen992100" target="_blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="30" /></a>
   <a href="https://www.reddit.com/user/Vam_Pii/" target="_blank"><img src="https://www.vectorlogo.zone/logos/reddit/reddit-icon.svg" alt="Reddit" width="30" /></a>
