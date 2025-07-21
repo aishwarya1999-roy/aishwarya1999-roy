@@ -4,7 +4,7 @@
 
 - 💼 Currently working at <strong>Infosys Technologies, Dubai</strong> as a **Senior Full Stack Developer**
 - 👩‍💻 4+ years of experience in software engineering
-- 🌱 Learning **AI, Machine Learning & FastAPI**
+- 🌱 Learning **AI, Machine Learning**
 - 🤝 Open to collaborations in **Full Stack Projects**
 - 🌐 Passionate about MERN Stack, Cloud Deployments, and DevOps
 - ⚡ Fun Fact: <em>"Darkness is the most true thing in the universe. 🌌"</em>
