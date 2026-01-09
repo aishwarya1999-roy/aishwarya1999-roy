@@ -2,7 +2,7 @@
 
 <h3>About Me 💁‍♀️:</h3>
 
-- 💼 Currently working at <strong>Infosys Technologies, Dubai</strong> as a **Senior Full Stack Developer**
+- 💼 Currently working as a **Senior Full Stack Developer**
 - 👩‍💻 4+ years of experience in software engineering
 - 🌱 Learning **AI, Machine Learning**
 - 🤝 Open to collaborations in **Full Stack Projects**
