@@ -3,7 +3,7 @@
 <h3>About Me 💁‍♀️:</h3>
 
 - 💼 Currently working as a **Senior Full Stack & AI Developer**
-- 👩‍💻 4+ years of experience in software engineering
+- 👩‍💻 5+ years of experience in software engineering
 - 🤝 Open to collaborations in **Full Stack Projects**
 - 🌐 Passionate about MERN Stack, Cloud Deployments, and DevOps
 - ⚡ Fun Fact: <em>"Darkness is the most true thing in the universe. 🌌"</em>
